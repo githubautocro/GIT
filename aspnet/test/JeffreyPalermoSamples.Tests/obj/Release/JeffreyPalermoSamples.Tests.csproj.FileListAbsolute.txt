@@ -1,0 +1,11 @@
+C:\Users\operaza\Documents\Visual Studio 11\Projects\JeffreyPalermoSamples\JeffreyPalermoSamples.Tests\bin\Release\JeffreyPalermoSamples.Tests.dll.config
+C:\Users\operaza\Documents\Visual Studio 11\Projects\JeffreyPalermoSamples\JeffreyPalermoSamples.Tests\bin\Release\JeffreyPalermoSamples.Tests.dll
+C:\Users\operaza\Documents\Visual Studio 11\Projects\JeffreyPalermoSamples\JeffreyPalermoSamples.Tests\bin\Release\JeffreyPalermoSamples.Tests.pdb
+C:\Users\operaza\Documents\Visual Studio 11\Projects\JeffreyPalermoSamples\JeffreyPalermoSamples.Tests\bin\Release\JeffreyPalermoSamples.dll
+C:\Users\operaza\Documents\Visual Studio 11\Projects\JeffreyPalermoSamples\JeffreyPalermoSamples.Tests\bin\Release\EntityFramework.dll
+C:\Users\operaza\Documents\Visual Studio 11\Projects\JeffreyPalermoSamples\JeffreyPalermoSamples.Tests\bin\Release\System.Web.Optimization.dll
+C:\Users\operaza\Documents\Visual Studio 11\Projects\JeffreyPalermoSamples\JeffreyPalermoSamples.Tests\bin\Release\JeffreyPalermoSamples.pdb
+C:\Users\operaza\Documents\Visual Studio 11\Projects\JeffreyPalermoSamples\JeffreyPalermoSamples.Tests\bin\Release\EntityFramework.xml
+C:\Users\operaza\Documents\Visual Studio 11\Projects\JeffreyPalermoSamples\JeffreyPalermoSamples.Tests\obj\Release\JeffreyPalermoSamples.Tests.csprojResolveAssemblyReference.cache
+C:\Users\operaza\Documents\Visual Studio 11\Projects\JeffreyPalermoSamples\JeffreyPalermoSamples.Tests\obj\Release\JeffreyPalermoSamples.Tests.dll
+C:\Users\operaza\Documents\Visual Studio 11\Projects\JeffreyPalermoSamples\JeffreyPalermoSamples.Tests\obj\Release\JeffreyPalermoSamples.Tests.pdb

@@ -53,3 +53,4 @@ c:\users\operaza\documents\visual studio 11\Projects\JeffreyPalermoSamples\Jeffr
 c:\users\operaza\documents\visual studio 11\Projects\JeffreyPalermoSamples\JeffreyPalermoSamples\bin\System.Web.WebPages.Razor.xml
 c:\users\operaza\documents\visual studio 11\Projects\JeffreyPalermoSamples\JeffreyPalermoSamples\obj\Release\JeffreyPalermoSamples.dll
 c:\users\operaza\documents\visual studio 11\Projects\JeffreyPalermoSamples\JeffreyPalermoSamples\obj\Release\JeffreyPalermoSamples.pdb
+C:\Users\operaza\Documents\Visual Studio 11\Projects\JeffreyPalermoSamples\JeffreyPalermoSamples\obj\Release\JeffreyPalermoSamples.csprojResolveAssemblyReference.cache
