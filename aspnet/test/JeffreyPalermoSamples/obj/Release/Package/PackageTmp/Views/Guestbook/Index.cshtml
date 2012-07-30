@@ -1,0 +1,20 @@
+﻿@{
+ViewBag.Title = "List";
+}
+<h2>My Guestbook Entries</h2>
+<p>
+<a href="/Guestbook/Create">Add a new entry</a>
+</p>
+@foreach (var entry in ViewBag.Entries) {
+<section class="contact">
+<header>
+<h3>@entry.Message</h3>
+</header>
+<p>
+Posted by @entry.Name on @entry.DateAdded.ToLongDateString()
+</p>
+</section>
+    
+}
+
+
